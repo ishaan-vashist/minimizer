@@ -89,5 +89,5 @@ The dataset is organized into `fist` and `no_fist` categories in the `fist image
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For questions or support, please contact [ishaanvashista@gmail.com].
+For questions or support, please contact ishaanvashista@gmail.com.
 
